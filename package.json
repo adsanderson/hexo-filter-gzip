@@ -1,0 +1,16 @@
+{
+  "name": "hexo-filter-gzip",
+  "version": "1.0.0",
+  "description": "Filter to gzip content on after_generate event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "accum": "^0.3.6",
+    "async": "^1.5.0",
+    "minimatch": "^3.0.0"
+  }
+}
