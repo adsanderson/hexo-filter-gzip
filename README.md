@@ -11,4 +11,4 @@ gzip:
   priority: 10000
 ```
 
-**priority**: set the priority to make sure the gzip task is executed after any other processing of the HTML, CSS and JS has been completed. 
+**priority (optional)**: set the priority to make sure the gzip task is executed after any other processing of the HTML, CSS and JS has been completed. Default 10000.
