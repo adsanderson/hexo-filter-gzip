@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/adsanderson/hexo-filter-gzip.svg?branch=master)](https://travis-ci.org/adsanderson/hexo-filter-gzip)
 
+**NOTE: Currently there is an issue with hexo server where the gzipped content is not rendered correctly**
+
 A filter for Gzipping HTML, CSS and JS files.
 
 ## Options
